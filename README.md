@@ -1,9 +1,9 @@
-# selenium
-bot to download SF data
+# Selenium
+*bot to download SF data
 
 This document will guide the user to install the selenium environment and the necessary packages required to run the bot. Please follow accordingly.
 
-Prerequisites:
+#Prerequisites:
 
 •	Make sure Salesforce is authenticated in your browser. This script will not do windows authentication.
 
@@ -11,7 +11,7 @@ Prerequisites:
 
 •	This programme was written to work on Microsoft Edge browser. If you are using any other browsers(e.g. Chrome), make sure to make the necessary changes to the script as well as having the necessary drivers installed. The folder drivers contain the drivers for chrome and firefox respectively.
 
-Steps:
+#Steps:
 1.	Copy and place the Selenium folder from the Automating the redundant folder into the desired directory of your choice in your desktop.
 2.	Open the anaconda command prompt
 3.	Go to the Selenium directory in your computer by typing “cd path/to/selenium/folder” into the command terminal.
